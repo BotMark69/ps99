@@ -1,4 +1,5 @@
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/snItpmyGmz/0", true))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/PArbzcij8c/0", true))()
 task.wait(0.1)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BotMark69/madebyme/refs/heads/main/loadingscreen"))()
 task.wait(3)
